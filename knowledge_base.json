@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "hola",
+      "answer": "Hola, qu\u00e9 tal?"
+    },
+    {
+      "question": "c\u00f3mo est\u00e1s?",
+      "answer": "Bien, gracias por preguntar. Y t\u00fa?"
+    },
+    {
+      "question": "Bien, gracias!",
+      "answer": "Me alegro! De qu\u00e9 quieres hablar?"
+    }
+  ]
+}
